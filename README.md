@@ -1,8 +1,9 @@
 # Hi there, I'm Moayad 👋
 
-💻 **MERN Stack Developer | AI & ML Enthusiast | LLMs & Vector DBs Builder**  
-🚀 Hands-on with **Python & Java**, building scalable apps and intelligent systems  
-🏢 Former intern at **Toshiba / Al Araby (Egypt)** & **Union Aire**  
+💻 MERN Stack Developer | AI & ML Enthusiast | AI Agents & RAG Systems Specialist  
+🚀 Hands-on with Python & Java, building scalable apps and intelligent systems  
+🏢 Former intern at Toshiba / Al Araby (Egypt) & Union Aire
+
 
 ---
 
