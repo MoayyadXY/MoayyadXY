@@ -7,7 +7,6 @@
 
 ---
 
-### 🛠 Skills & Technologies
 
 ### 🛠 Skills & Technologies
 
