@@ -20,33 +20,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 GitHub Stats
 
-![Moayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-### 📂 Projects Highlights
-
-[![AI Legal Assistant](https://img.shields.io/badge/AI%20Legal%20Assistant-GPT-blue?style=for-the-badge)](https://github.com/your-username/ai-legal-assistant)  
-[![MERN App](https://img.shields.io/badge/MERN%20App-React%2CNode-green?style=for-the-badge)](https://github.com/your-username/mern-project)  
-[![Vector DB Experiments](https://img.shields.io/badge/Vector%20DB-ML%2FAI-orange?style=for-the-badge)](https://github.com/your-username/vector-db-project)
-
----
-
-### 🌱 Currently Learning
-
-- Advanced **LLM fine-tuning** & **prompt engineering**  
-- **Efficient AI retrieval pipelines** for legal & other domains  
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Portfolio](https://your-portfolio-site.com)  
-
----
 
